@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListSampleView</string>
+    <string name="message_name_text_hint">名前を書いてね</string>
+    <string name="label_go_button_go">GOGO</string>
+</resources>
